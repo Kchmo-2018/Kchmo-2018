@@ -16,6 +16,25 @@
 </p>
 
 
+<h3> Here's some fun facts about me: </h3>
+
+- 🔭 Currently working on: Specialist in creating scalable services using Java (Spring Boot) and Python (Django), prioritizing security and performance on the server side.
+
+- 🌱 Technical experience: 1+ year of experience developing systems in Linux environments (Ubuntu/WSL2), managing PostgreSQL databases, and designing robust APIs.
+
+- 🤖 AI specialization: Applying knowledge of Artificial Intelligence (especially in the energy/oil sectors) to optimize processes through data analysis.
+
+- 👯 collaboration on: Backend projects (Python/Java), AI integrations, and database optimization.
+
+- 💻 API Lifecycle: Complete mastery of RESTful API design, from conceptualization to documentation and automated testing using Postman.
+
+<h1 align=center> Known technologies👨🏻‍💻</h1>
+<div align=center>
+   <h3>Backend</h3>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,postgres,python,django,ubuntu,docker&theme=light" />
+  </a>
+     </div>
 <!--
 **Kchmo-2018/Kchmo-2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
