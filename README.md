@@ -16,17 +16,65 @@
 </p>
 
 
-<h3> Here's some fun facts about me: </h3>
+<br/>
 
-- 🔭 Currently working on: Specialist in creating scalable services using Java (Spring Boot) and Python (Django), prioritizing security and performance on the server side.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-- 🌱 Technical experience: 1+ year of experience developing systems in Linux environments (Ubuntu/WSL2), managing PostgreSQL databases, and designing robust APIs.
+### 🧬 `$ cat about_roxs.yaml`
 
-- 🤖 AI specialization: Applying knowledge of Artificial Intelligence (especially in the energy/oil sectors) to optimize processes through data analysis.
+```yaml
+name: Kimberly Meneses
+alias: Kim
+role: Tech Lead DevOps
+location: 🌎 LATAM
+  
+recognitions:
+  - 🐳 Docker 
+  - 🦊 GitLab Hero
 
-- 👯 collaboration on: Backend projects (Python/Java), AI integrations, and database optimization.
+superpower: >
+  Construir, automatizar y compartir
+  tecnología con pasión inagotable.
 
-- 💻 API Lifecycle: Complete mastery of RESTful API design, from conceptualization to documentation and automated testing using Postman.
+philosophy: |
+  Para entender algo no debes
+  entenderlo... sino serlo.
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 `$ cat what_i_do.sh`
+
+```bash
+#!/bin/bash
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 🚀 Lo que hago cada día
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+echo "🧪 Automatizarlo TODO"
+echo "🎙️ Hablar en eventos"
+echo "🛠️ Crear pipelines & labs"
+echo "🎓 Liderar bootcamps"
+echo "📝 Crear contenido técnico"
+echo "🤝 Construir comunidad"
+echo "🌍 Compartir para que nadie"
+echo "   se quede afuera!"
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━
+exit 0 # siempre exitoso 😎
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 
 <h1 align=center> Known technologies👨🏻‍💻</h1>
 <div align=center>
