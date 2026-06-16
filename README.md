@@ -54,14 +54,9 @@ philosophy: |
 # 🚀 Lo que hago cada día
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-echo "🧪 Automatizarlo TODO"
-echo "🎙️ Hablar en eventos"
-echo "🛠️ Crear pipelines & labs"
-echo "🎓 Liderar bootcamps"
-echo "📝 Crear contenido técnico"
-echo "🤝 Construir comunidad"
-echo "🌍 Compartir para que nadie"
-echo "   se quede afuera!"
+
+
+
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━
 exit 0 # siempre exitoso 😎
